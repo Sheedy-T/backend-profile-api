@@ -1,0 +1,4 @@
+/node_modules
+
+# Environment variables (private credentials)
+.env
